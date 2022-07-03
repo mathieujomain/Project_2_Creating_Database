@@ -1,0 +1,11 @@
+We collected the data using World Bank API in python.
+After we chose 4 indicators that seems intersting to analyse : 
+
+The ease of doing business (0 = lowest performance to 100 = best performance).
+
+Time required to start a business (days).
+
+New business density (new registrations per 1,000 people ages 15-64).
+
+Cost of business procedures (% of GNI per capita) : GNI per capita (formerly GNP per capita) is the gross national income, 
+converted to U.S. dollars using the World Bank Atlas method, divided by the midyear population.

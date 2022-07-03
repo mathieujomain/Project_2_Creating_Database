@@ -1,0 +1,21 @@
+#Queries
+
+#We want to know the country where it is the fastest to create a business while displaying the cost
+
+In that query we could see that some countries may have a short period of time (display in days) on average to create a new business.
+But on the other hand it is very expensive (display in % of Gross National Income converted to  US dollars).
+For some other countries it is the other way around.
+
+
+
+#We want to know if the cost of launching a business and the ease score of launching a business are related
+
+By the result that we got, the ease score to open a business might not be as much related to the business cost as we think.
+In Germany the cost is way higher than in France, however Germany's ease score is better than France's.
+
+
+
+#We want to see the evolution of the time needed to create a business over the year
+
+A query to show the evolution of time (in days) to create a business from 2015 to 2019 in every countries.
+We can see that some countries reduces the time drasticaly over the year.
