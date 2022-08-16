@@ -1,16 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Creating Database in MYSQL! WOW
-
-## Content
-- [Project Description](#project-description)
-- [Database](#Create Database)
-- [Project Goals](#project-goals)
-- [Requirements & Deliverables](#requirements-&-deliverables)
-- [Schedule](#schedule)
-- [Presentation](#presentation)
-- [Example](#example)
-
+# Creating Database in MYSQL
 
 ## Project Goals
 Dive deeper into the database creation and panel data.
@@ -20,8 +10,6 @@ Dive deeper into the database creation and panel data.
 The goal of this project is to create the database that reflects one of the important socio-economic subject, develop the composite indicator that allows to compare the countries and implement queries that return useful insights about your data.
 
 In this project we chose to work on the business indicator.
-
-
 
 You can work using the following approach:
 1. Disscuss the subject and check the available datasources
@@ -44,7 +32,6 @@ Time required to start a business (days)
 Cost of business procedures (% of GNI per capita)
 New business density (new registrations per 1,000 people ages 15-64)
 
-
 We need to do at least 5 queries, where 1 query should be done for the indicator calculations, 1 query - for presenting all the information about countries/cities/regions for different cities/countries/regions.
 
 ## Requirements & Deliverables
@@ -59,7 +46,6 @@ You should deliver:
 - sql script,
 - slides.
 
-
 ## Presentation
 The presentation time limit is **6 minutes**! You will have **3 minutes** to present your project to the class and then **2 minutes** for Q&A. 
 
@@ -72,11 +58,6 @@ The slides of your presentation must include the content listed below and a demo
 * Highlights
 * Main results  
 * Demo (ONE MINUTE)
-
-## Example
-Goal: to develop a database "Innovations"
-Proposed data: Number of teachers per student, Number of patents, Hi-tech import.
-ER model: Countries description (Country, Code, Income, Classification), Teachers_per_students (Country_code, Indicator, Year), Patents (Country_code, Indicator, Year), Hi_tech import (Country_code, Indicator_category1, Indicator_category2, Year)
 
 Composite indicator: 
 1. standartization/ normalization of data
